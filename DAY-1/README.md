@@ -52,4 +52,4 @@ Explanation
 
 -150 can be stored in a short, an int, or a long.
 
-213333333333333333333333333333333333is very large and is outside of the allowable range of values for the primitive data types discussed in this problem.
+ 213333333333333333333333333333333333is very large and is outside of the allowable range of values for the primitive data types discussed in this problem.
