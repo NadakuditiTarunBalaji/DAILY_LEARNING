@@ -1,0 +1,1 @@
+docker pull ntarun9/basics:latest
